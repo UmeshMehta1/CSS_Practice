@@ -1,0 +1,43 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+/* how to work px */
+
+/* pixel ko fix height width hunxa according to input */
+/* #index {
+  height: 300px;
+  width: 300px;
+  background-color: rebeccapurple;
+} */
+
+/* ========================================================== */
+/* how to work % */
+
+/* percentage is working on the bais of parent size */
+
+/* #index {
+  height: 30%;
+  width: 40%;
+  background-color: aquamarine;
+}
+
+#innerIndex {
+  height: 90%;
+  width: 95%;
+  background: gray;
+} */
+
+/* ============================================================== */
+/* how to work VW(viewport width ) and vh(viewport hight) */
+/* ==> VW and VH is working on the basis of screen size(mobile and laptop) */
+
+/* #index {
+  height: 50vh;
+  width: 70vw;
+  background-color: blueviolet;
+} */
+
+/* ======================================================================== */
